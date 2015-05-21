@@ -1,0 +1,10 @@
+http://www.mkyong.com/tutorials/apache-archiva-tutorials/
+
+https://maven.apache.org/repository-management.html
+
+http://archiva.apache.org/docs/1.4-M4/userguide/using-repository.html
+
+https://docs.oracle.com/middleware/1212/core/MAVEN/config_maven.htm#MAVEN322
+
+http://www.mkyong.com/maven/how-to-add-remote-repositories-in-apache-archiva/
+
